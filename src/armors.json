@@ -2,147 +2,147 @@
     {
         "id": 1,
         "name": "Mark I",
-        "image": "./assets/images/MarkI",
+        "image": "/images/MarkI.png",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Mark V",
-        "image": "./assets/images/MarkV",
+        "image": "/images/MarkV.png",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Mark L",
-        "image": "./assets/images/MarkL",
+        "image": "/images/MarkL.png",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Mark LXXXV",
-        "image": "./assets/images/MarkLXXXV",
+        "image": "/images/MarkLXXXV.png",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Mark XLII",
-        "image": "./assets/images/Mark XLII",
+        "image": "/images/MarkXLII.png",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Mark XLIII",
-        "image": "./assets/images/MarkXLIII",
+        "image": "/images/MarkXLIII.png",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Bones",
-        "image": "./assets/images/Bones",
+        "image": "/images/Bones.png",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Disco",
-        "image": "./assets/images/Disco",
+        "image": "/images/Disco.png",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Hammmer Head",
-        "image": "./assets/images/HammerHead",
+        "image": "/images/HammerHead.png",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Heartbreaker",
-        "image": "./assets/images/Heartbreaker",
+        "image": "/images/Heartbreaker.png",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Hot Rod",
-        "image": "./assets/images/Hot Rod",
+        "image": "/images/HotRod.png",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Hulkbuster",
-        "image": "./assets/images/Hulkbuster",
+        "image": "/images/Hulkbuster.png",
         "clicked": false
     },
     {
         "id": 13,
         "name": "Igor",
-        "image": "./assets/images/Igor",
+        "image": "/images/Igor.png",
         "clicked": false
     },
     {
         "id": 14,
         "name": "Shades",
-        "image": "./assets/images/Shades",
+        "image": "/images/Shades.png",
         "clicked": false
     },
 
     {
         "id": 15,
         "name": "Thumper",
-        "image": "./assets/images/Thumper",
+        "image": "/images/Thumper.png",
         "clicked": false
     },
 
     {
         "id": 16,
         "name": "Iron Legion",
-        "image": "./assets/images/IronLegion",
+        "image": "/images/IronLegion.png",
         "clicked": false
     },
     {
         "id": 17,
         "name": "War Machine Mark I",
-        "image": "./assets/images/WarMachineMarkI",
+        "image": "/images/WarMachineMarkI.png",
         "clicked": false
     },
     {
         "id": 18,
         "name": "War Machine Mark II",
-        "image": "./assets/images/WarMachineMarkII",
+        "image": "/images/WarMachineMarkII.png",
         "clicked": false
     },
     {
         "id": 19,
         "name": "War Machine Mark III",
-        "image": "./assets/images/WarMachineMarkIII",
+        "image": "/images/WarMachineMarkIII.png",
         "clicked": false
     },
     {
         "id": 20,
         "name": "War Machine Mark VI",
-        "image": "./assets/images/WarMachineMarkVI",
+        "image": "/images/WarMachineMarkVI.png",
         "clicked": false
     },
     {
         "id": 21,
         "name": "War Machine Mark VII",
-        "image": "./assets/images/WarMachineMarkVII",
+        "image": "/images/WarMachineMarkVII.png",
         "clicked": false
     },
     {
         "id": 22,
         "name": "Rescue",
-        "image": "./assets/images/Rescue",
+        "image": "/images/Rescue.png",
         "clicked": false
     },
     {
         "id": 23,
         "name": "Iron Spider",
-        "image": "./assets/images/IronSpider",
+        "image": "/images/IronSpider.png",
         "clicked": false
     },
     {
         "id": 24,
         "name": "Midas",
-        "image": "./assets/images/Midas",
+        "image": "/images/Midas.png",
         "clicked": false
     }
 ]
