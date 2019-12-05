@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "name": "Mark I",
+        "image": "./assets/images/MarkI",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Mark V",
+        "image": "./assets/images/MarkV",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Mark L",
+        "image": "./assets/images/MarkL",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Mark LXXXV",
+        "image": "./assets/images/MarkLXXXV",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Mark XLII",
+        "image": "./assets/images/Mark XLII",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Mark XLIII",
+        "image": "./assets/images/MarkXLIII",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Bones",
+        "image": "./assets/images/Bones",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Disco",
+        "image": "./assets/images/Disco",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Hammmer Head",
+        "image": "./assets/images/HammerHead",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Heartbreaker",
+        "image": "./assets/images/Heartbreaker",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Hot Rod",
+        "image": "./assets/images/Hot Rod",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Hulkbuster",
+        "image": "./assets/images/Hulkbuster",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Igor",
+        "image": "./assets/images/Igor",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "Shades",
+        "image": "./assets/images/Shades",
+        "clicked": false
+    },
+
+    {
+        "id": 15,
+        "name": "Thumper",
+        "image": "./assets/images/Thumper",
+        "clicked": false
+    },
+
+    {
+        "id": 16,
+        "name": "Iron Legion",
+        "image": "./assets/images/IronLegion",
+        "clicked": false
+    },
+    {
+        "id": 17,
+        "name": "War Machine Mark I",
+        "image": "./assets/images/WarMachineMarkI",
+        "clicked": false
+    },
+    {
+        "id": 18,
+        "name": "War Machine Mark II",
+        "image": "./assets/images/WarMachineMarkII",
+        "clicked": false
+    },
+    {
+        "id": 19,
+        "name": "War Machine Mark III",
+        "image": "./assets/images/WarMachineMarkIII",
+        "clicked": false
+    },
+    {
+        "id": 20,
+        "name": "War Machine Mark VI",
+        "image": "./assets/images/WarMachineMarkVI",
+        "clicked": false
+    },
+    {
+        "id": 21,
+        "name": "War Machine Mark VII",
+        "image": "./assets/images/WarMachineMarkVII",
+        "clicked": false
+    },
+    {
+        "id": 22,
+        "name": "Rescue",
+        "image": "./assets/images/Rescue",
+        "clicked": false
+    },
+    {
+        "id": 23,
+        "name": "Iron Spider",
+        "image": "./assets/images/IronSpider",
+        "clicked": false
+    },
+    {
+        "id": 24,
+        "name": "Midas",
+        "image": "./assets/images/Midas",
+        "clicked": false
+    }
+]

@@ -1,29 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import Card from "./components/Card";
+import Footer from "./components/Footer";
+
 import './App.css';
 
-function App() {
+class App extends Component {
+  state = {
+    image: "",
+    pickedCard: [],
+    highScore: 0,
+  };
+
+
+
+render () {
   return (
-  <div className="App">
-    <nav className="navbar navbar-light bg-light">
-  <span className="navbar-brand mb-0 h1">Clickers Game</span>
-</nav>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App">
+      <Navbar />
+      <Header />
+      <div className="container">
+        <Card />
+      </div>
+      <Footer />
     </div>
   );
 }
-
+}
 export default App;
