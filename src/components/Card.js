@@ -13,7 +13,7 @@ class Card extends React.Component {
 
   return (
 
-      <div className="wrapper">
+      <div className="picks">
       <h1 className="title">Amours List</h1>
       {armorList}
       </div>
