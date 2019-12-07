@@ -1,6 +1,11 @@
-#score, #topScore {
+#title {
+    color: red;
     font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+  }
+
+#score, #topScore {
+    font-weight: bold;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-
 };
