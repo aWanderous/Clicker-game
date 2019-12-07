@@ -1,9 +1,4 @@
-#title {
-    color: red;
-    font-weight: bold;
-};
-
-#score {
+#score, #topScore {
     font-weight: bolder;
     text-align: center;
 };

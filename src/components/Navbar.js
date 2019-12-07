@@ -16,7 +16,7 @@ higherScore();
 function Navbar() {
     return (
         <nav className="navbar">
-            <span id="title">Clickers Game</span>
+            <span className="title">Clickers Game</span>
             <span id="score">Current Score: {score}</span>
             <span id="topScore">Highest Score: {highScore}</span>
         </nav>
