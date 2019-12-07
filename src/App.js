@@ -14,7 +14,7 @@ class App extends Component {
 			score: 0,
 			maxScore: 24,
 			highScore: 0,
-			message: "CLICK AN IMAGE TO BEGIN!"
+			message: "Click on an armor to earn points, but don't click on any more than once!"
 		};
 	}
 
@@ -59,13 +59,13 @@ class App extends Component {
 		if (this.state.score + 1 >= this.state.maxScore) {
 			this.setState({
 				score: this.state.score + 1,
-				message: "CONGRATS! YOU WIN!",
+				message: "Well Done! YOU WIN!",
 				messageClass: "correct"
 			});
 		} else {
 			this.setState({
 				score: this.state.score + 1,
-				message: "YOU GUESSED CORRECTLY!",
+				message: "Good job! Keep going!",
 				messageClass: "correct"
 			});
 		}
@@ -73,7 +73,7 @@ class App extends Component {
 
 	handleIncorrectClick = () => {
 		this.setState({
-			message: "INCORRECT. PLAY AGAIN?",
+			message: "OH ON! You picked that one before! New Game? Click again to start.",
 			isGuessCorrect: false
 		});
 		this.resetGame();

@@ -1,11 +1,11 @@
 import React from 'react';
 import '../styles/Header.css';
 
-function Header() {
+function Header({message}) {
     return (
         <div id="header">
             <div className="container">
-                <h2 id="rules">Click on an armor to earn points, but don't click on any more than once!</h2>
+                <h2 id="message">{message}</h2>
             </div>
         </div>
     );
