@@ -6,12 +6,8 @@
 .title {
   color: red;
   font-weight: bold;
+  font-family: 'Poppins', sans-serif;
 };
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
 
 img {
   height: 212px;
