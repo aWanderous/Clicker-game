@@ -1,21 +1,9 @@
 import React from 'react';
 import '../styles/Navbar.css';
 
-
-const score = 10;
-let highScore = 0 ;
-
-function higherScore() {
-    if (score > highScore) {
-        highScore = score
-    }
-    return highScore;
-};
-higherScore();
-
-function Navbar() {
+function Navbar({ score, highScore }) {
     return (
-        <nav className="navbar">
+      <nav className="navbar">
             <span className="title">Clickers Game</span>
             <span id="score">Current Score: {score}</span>
             <span id="topScore">Highest Score: {highScore}</span>
